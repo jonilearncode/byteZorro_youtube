@@ -1,4 +1,4 @@
-# byteZorro
+# Snake game with Python and Processing @byteZorro
 
 Materials for the youtube project video https://youtu.be/B2v2z28AQLA
 
